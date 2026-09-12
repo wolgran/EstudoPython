@@ -51,9 +51,9 @@ for i in range(n):
   aux=vetor[i]
   vetor[i]=vetor[id_min]
   vetor[id_min]=aux
-  """
+  
 
-print(vetor)
+print(vetor)"""
 
 # Quick sort
 
