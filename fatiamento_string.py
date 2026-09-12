@@ -9,7 +9,7 @@ Obs.: a função len retorna a qtd
 de caracteres da str
 """
 """variavel = 'Olá mundo'
-print(variavel[::])"""
+print(variavel[::-1])"""
 
 
 """ Exercicio
